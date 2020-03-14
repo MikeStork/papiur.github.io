@@ -47,4 +47,5 @@ input[name="num"] {
     background-image: url("../../img/pas/pas1.png");
     background-position: 50% 50%;
     background-size: 100%;
+    background-repeat: no-repeat;
 }
